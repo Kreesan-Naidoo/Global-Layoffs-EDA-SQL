@@ -58,4 +58,4 @@ A small number of large tech companies account for a disproportionately high sha
 
 -- Related Project :\
 This EDA was performed on data cleaned in Part 1 of this series.
- View the Data Cleaning Project on the same data set : SQL data cleaning project layoffs
+ View the Data Cleaning Project on the same data set : Global-Layoffs-Data-Cleaning-SQL
