@@ -11,9 +11,9 @@ SQL techniques — Aggregations, GROUP BY, Window Functions, CTEs, DENSE_RANK(),
 
 --  Dataset
 
-Source: Kaggle — Layoffs Dataset
-Table used: layoffs_staging2 (cleaned dataset from the data cleaning project using the same dataset)
-Period covered: March 2020 – March 2023
+Source: Kaggle — Layoffs Dataset\
+Table used: layoffs_staging2 (cleaned dataset from the data cleaning project using the same dataset)\
+Period covered: March 2020 – March 2023\
 Key fields: Company, Industry, Country, Total Laid Off, Percentage Laid Off, Date, Stage, Funds Raised
 
 -- Business Questions Explored
@@ -49,13 +49,13 @@ Used double nested CTEs combined with DENSE_RANK() to rank companies by total la
 
 -- Key Findings
 
-The dataset spans March 2020 to March 2023, covering the COVID-19 period through the post-pandemic tech correction
-Several companies laid off 100% of their workforce, indicating full shutdowns rather than cost-cutting measures
-The Consumer and Retail industries were among the hardest hit by total headcount reductions
-Layoffs accelerated significantly in 2022 and early 2023 following a relatively quieter 2021 — visible in the rolling monthly totals
+The dataset spans March 2020 to March 2023, covering the COVID-19 period through the post-pandemic tech correction\
+Several companies laid off 100% of their workforce, indicating full shutdowns rather than cost-cutting measures\
+The Consumer and Retail industries were among the hardest hit by total headcount reductions\
+Layoffs accelerated significantly in 2022 and early 2023 following a relatively quieter 2021 — visible in the rolling monthly totals\
 A small number of large tech companies account for a disproportionately high share of total layoffs when ranked by year
 
 
--- Related Project :
+-- Related Project :\
 This EDA was performed on data cleaned in Part 1 of this series.
  View the Data Cleaning Project on the same data set : SQL data cleaning project layoffs
