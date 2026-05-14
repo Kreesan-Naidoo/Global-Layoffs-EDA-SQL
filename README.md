@@ -56,6 +56,6 @@ Layoffs accelerated significantly in 2022 and early 2023 following a relatively 
 A small number of large tech companies account for a disproportionately high share of total layoffs when ranked by year
 
 
--- Related Project
+-- Related Project :
 This EDA was performed on data cleaned in Part 1 of this series.
  View the Data Cleaning Project on the same data set : SQL data cleaning project layoffs
