@@ -1,5 +1,5 @@
 # SQL Exploratory Data Analysis — Global Layoffs (2020–2023)
--- Project Overview
+-- Project Overview\
 This project performs end-to-end Exploratory Data Analysis (EDA) using MySQL on a cleaned dataset of global company layoffs between 2020 and 2023. The goal was to uncover meaningful patterns and trends across companies, industries, and time periods — answering real business questions purely through SQL.
 This project is the second stage of a two-part series. The raw data was first cleaned in a separate data cleaning project before analysis began here.
 
