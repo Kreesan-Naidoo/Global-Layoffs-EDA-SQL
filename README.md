@@ -5,8 +5,8 @@ This project is the second stage of a two-part series. The raw data was first cl
 
 -- Tools Used
 
-MySQL — all analysis performed in SQL
-SQL techniques — Aggregations, GROUP BY, Window Functions, CTEs, DENSE_RANK(), Rolling Totals, SUBSTRING() for date parsing
+-MySQL — all analysis performed in SQL
+-SQL techniques — Aggregations, GROUP BY, Window Functions, CTEs, DENSE_RANK(), Rolling Totals, SUBSTRING() for date parsing
 
 
 --  Dataset
